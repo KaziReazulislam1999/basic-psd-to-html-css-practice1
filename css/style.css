@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+body {
+}
+.container {
+  width: 1000px;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+.clear {
+  overflow: hidden;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Georgia;
+}
+
+p,
+a {
+  font-family: Verdana;
+  font-size: 12px;
+}
