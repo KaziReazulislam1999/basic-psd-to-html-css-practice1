@@ -219,7 +219,7 @@ input {
 
 .readmore {
   float: right;
-  margin: 20px 10px;
+  margin: 17px 10px;
 }
 .readmore a {
   color: #333;
@@ -230,32 +230,71 @@ input {
 }
 
 .postsection {
+  background: #eaf2f4;
+  padding: 30px 20px;
 }
 
 .post {
 }
 .leftpost {
+  width: 400px;
+  float: left;
 }
 .samepost {
 }
 .samepost h3 {
+  padding-bottom: 10px;
+  color: #666;
 }
-.samepost img {
+.samepostinner {
+  border-top: 1px solid #cdd8d8;
+  padding-top: 20px;
 }
-.samepost h6 {
+.samepostinner img {
+  float: left;
+  background: #fff;
+  padding: 5px;
+  border: 1px solid #013d61;
+  margin-right: 10px;
 }
-.samepost p {
+.samepostinner h6 {
+  font-family: verdana;
+  font-size: 12px;
+  padding-bottom: 5px;
+  color: #666;
+}
+.samepostinner p {
+  color: #666;
+  line-height: 19.2px;
 }
 
 .rightpost {
+  float: right;
+  width: 500px;
 }
 .rightpost h3 {
+  padding-bottom: 10px;
+  border-bottom: 1px solid #cdd8d8;
+  color: #666;
+  margin-bottom: 20px;
 }
 .rightpost img {
+  float: left;
+  background: #fff;
+  padding: 5px;
+  border: 1px solid #013d61;
+  margin-right: 10px;
 }
 .rightpost h6 {
+  font-family: verdana;
+  font-size: 12px;
+  padding-bottom: 5px;
+  color: #666;
 }
 .rightpost p {
+  color: #666;
+  line-height: 19.2px;
+  margin-bottom: 20px;
 }
 
 .footersection {
