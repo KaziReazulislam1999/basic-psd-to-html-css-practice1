@@ -108,6 +108,7 @@ input {
   font-family: Georgia;
 }
 .menuleft ul li a:hover {
+  color: #049bac;
 }
 
 .menuright {
@@ -162,6 +163,7 @@ input {
   font-size: 22px;
 }
 .banlink a:hover {
+  color: #049bac;
 }
 
 .bannerright {
@@ -176,22 +178,55 @@ input {
 }
 
 .servicesection {
+  background: #eaf2f4;
+  padding: 30px 20px;
+  height: 300px;
 }
-
+.servicecontent {
+  border-bottom: 2px solid #fff;
+  padding-bottom: 64px;
+}
 .service {
+  width: 238px;
+  float: left;
+  background: #f1f7f7;
+  border: 1px solid #cdd8d8;
 }
 .service h3 {
+  font-family: Georgia;
+  font-size: 22px;
+  font-weight: normal;
+  color: #049bac;
+  border-bottom: 1px solid #cdd8d8;
+  text-transform: uppercase;
+  padding: 20px 30px;
 }
-.service h4 {
+.serviceinner {
+  margin: 20px 10px 0px 10px;
 }
-.service p {
+.serviceinner h4 {
+  border-bottom: 1px solid #475c5f;
+  padding-bottom: 5px;
+  color: #666;
+  font-weight: normal;
+  font-size: 22px;
+}
+.serviceinner p {
+  padding-top: 10px;
+  line-height: 15.4px;
+  color: #666;
 }
 
 .readmore {
+  float: right;
+  margin: 20px 10px;
 }
 .readmore a {
+  color: #333;
+  font-weight: bold;
 }
 .readmore a:hover {
+  color: #049bac;
 }
 
 .postsection {
