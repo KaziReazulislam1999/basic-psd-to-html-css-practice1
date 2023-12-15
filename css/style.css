@@ -298,23 +298,45 @@ input {
 }
 
 .footersection {
+  background: #2c2c2d;
 }
 .footertop {
 }
 .footercontent {
+  width: 293px;
+  float: left;
+  padding: 20px 20px;
+  color: #fff;
 }
 .footercontent h3 {
+  color: #98989a;
+  font-size: 22px;
+  border-bottom: 1px solid #98989a;
+  padding-bottom: 10px;
+  margin-bottom: 25px;
 }
 .footercontent p {
+  color: #98989a;
+  padding-bottom: 10px;
 }
 
 .footercontent input[type="text"] {
+  width: 235px;
+  height: 25px;
+  border: none;
+  outline: none;
 }
 .footercontent input[type="submit"] {
+  margin-bottom: 8px;
+  padding: 0px 10px;
+  border: none;
+  font-size: 14px;
+  height: 25px;
 }
 .footercontent p {
 }
 .footercontent p a {
+  color: #049bac;
 }
 .footercontent p a:hover {
 }
@@ -322,20 +344,29 @@ input {
 .footercontent ul {
 }
 .footercontent ul li {
+  color: #98989a;
+  padding-bottom: 8px;
 }
 .footercontent ul li a {
+  color: #049bac;
 }
 .footercontent ul li a:hover {
 }
 
 .footerbottom {
+  background: #252526;
+  color: #fff;
+  padding: 20px 20px;
+  border-top: 2px solid #3d3d3d;
 }
 .fooleft {
+  float: left;
 }
 .fooleft p {
 }
 
 .footright {
+  float: right;
 }
 .footright p {
 }
